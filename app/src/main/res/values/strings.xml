@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_etf_definition">ETF (Exchange-Traded Fund) to inwestycyjny fundusz, którego udziały są notowane na giełdzie</string>
+    <string name="q_bond_risk">Zwiększenie stopy procentowej może zwiększyć ryzyko straty dla posiadaczy obligacji</string>
+    <string name="q_diversification">Dywersyfikacja portfela inwestycyjnego polega na inwestowaniu w różne aktywa w celu zmniejszenia ryzyka</string>
+    <string name="q_etf_expenses">ETF nie generuje żadnych kosztów dla inwestora</string>
+    <string name="q_stocks">Akcje zawsze gwarantują inwestorom stały i niezmienne zyski.</string>
+
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Zła odpowiedź</string>
+
+</resources>
