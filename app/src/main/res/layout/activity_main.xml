@@ -36,11 +36,25 @@
             android:text="@string/button_false" />
     </LinearLayout>
 
-    <Button
-        android:id="@+id/next_button"
-        style="@style/Widget.AppCompat.Button"
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_next" />
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/hint_button"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/button_hint" />
+
+        <Button
+            android:id="@+id/next_button"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/button_next" />
+    </LinearLayout>
 
 </LinearLayout>

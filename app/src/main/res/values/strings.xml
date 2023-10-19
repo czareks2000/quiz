@@ -4,6 +4,7 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+    <string name="button_hint">Podpowiedź</string>
 
     <string name="q_etf_definition">ETF (Exchange-Traded Fund) to inwestycyjny fundusz, którego udziały są notowane na giełdzie</string>
     <string name="q_bond_risk">Zwiększenie stopy procentowej może zwiększyć ryzyko straty dla posiadaczy obligacji</string>
@@ -13,5 +14,6 @@
 
     <string name="correct_answer">Poprawna odpowiedź</string>
     <string name="incorrect_answer">Zła odpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona</string>
 
 </resources>
